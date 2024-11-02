@@ -84,7 +84,6 @@ export default defineUserConfig({
     //   downProxy: cloudflarePagesDownProxy()
     // },
     // ... 可以配置多个挂载路径和仓库，以此类推
-    
     //Windows优化
     //路径格式：Windows/优化/
         {
@@ -110,7 +109,6 @@ export default defineUserConfig({
         repository: "ShowDesktopOneMonitor"
       }),
     },
-    
     //Windows美化
     //路径格式：Windows/美化/
         {
@@ -124,7 +122,6 @@ export default defineUserConfig({
         repository: "WinDynamicDesktop"
       }),
     },
-    
     //分割
         {
       // 挂载路径
