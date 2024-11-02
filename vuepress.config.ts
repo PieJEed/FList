@@ -125,7 +125,7 @@ export default defineUserConfig({
     //分割
         {
       // 挂载路径
-      mountPath: "Windows/电子书阅读/Koodo-reader・UI蛮棒,
+      mountPath: "Windows/电子书阅读/Koodo-reader・UI蛮棒",
       // 文件解析器，这里使用githubReleasesFilesAnalysis,可以解析github的release文件
       analysis: githubReleasesFilesAnalysis({
         // 仓库所有者的用户名
